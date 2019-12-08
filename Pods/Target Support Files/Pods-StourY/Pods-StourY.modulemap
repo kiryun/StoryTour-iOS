@@ -1,0 +1,6 @@
+framework module Pods_StourY {
+  umbrella header "Pods-StourY-umbrella.h"
+
+  export *
+  module * { export * }
+}
